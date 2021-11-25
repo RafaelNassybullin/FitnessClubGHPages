@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/FitnessClubGHPages/static/js/main.409f551f.chunk.js",
+    "main.js.map": "/FitnessClubGHPages/static/js/main.409f551f.chunk.js.map",
+    "runtime-main.js": "/FitnessClubGHPages/static/js/runtime-main.880680a0.js",
+    "runtime-main.js.map": "/FitnessClubGHPages/static/js/runtime-main.880680a0.js.map",
+    "static/css/2.853ba1bc.chunk.css": "/FitnessClubGHPages/static/css/2.853ba1bc.chunk.css",
+    "static/js/2.25b21a99.chunk.js": "/FitnessClubGHPages/static/js/2.25b21a99.chunk.js",
+    "static/js/2.25b21a99.chunk.js.map": "/FitnessClubGHPages/static/js/2.25b21a99.chunk.js.map",
+    "index.html": "/FitnessClubGHPages/index.html",
+    "static/css/2.853ba1bc.chunk.css.map": "/FitnessClubGHPages/static/css/2.853ba1bc.chunk.css.map",
+    "static/js/2.25b21a99.chunk.js.LICENSE.txt": "/FitnessClubGHPages/static/js/2.25b21a99.chunk.js.LICENSE.txt",
+    "static/media/AbrilFatface-Regular.1943f418.woff": "/FitnessClubGHPages/static/media/AbrilFatface-Regular.1943f418.woff",
+    "static/media/Alegreya-Bold.a1ab1e7f.woff": "/FitnessClubGHPages/static/media/Alegreya-Bold.a1ab1e7f.woff",
+    "static/media/Alegreya-Regular.8638f8aa.woff": "/FitnessClubGHPages/static/media/Alegreya-Regular.8638f8aa.woff",
+    "static/media/JosefinSans-Bold.22a56856.woff": "/FitnessClubGHPages/static/media/JosefinSans-Bold.22a56856.woff",
+    "static/media/JosefinSans-Italic.7b57632d.woff": "/FitnessClubGHPages/static/media/JosefinSans-Italic.7b57632d.woff",
+    "static/media/JosefinSans-Regular.8f04ad78.woff": "/FitnessClubGHPages/static/media/JosefinSans-Regular.8f04ad78.woff",
+    "static/media/JosefinSans-SemiBold.5abca2df.woff": "/FitnessClubGHPages/static/media/JosefinSans-SemiBold.5abca2df.woff",
+    "static/media/fito-nyash.e15eec6c.jpg": "/FitnessClubGHPages/static/media/fito-nyash.e15eec6c.jpg",
+    "static/media/gotogym.35b65302.jpg": "/FitnessClubGHPages/static/media/gotogym.35b65302.jpg",
+    "static/media/indokach.3cba21af.jpg": "/FitnessClubGHPages/static/media/indokach.3cba21af.jpg",
+    "static/media/indys.65147b6f.jpg": "/FitnessClubGHPages/static/media/indys.65147b6f.jpg",
+    "static/media/jump.c691f7a9.jpg": "/FitnessClubGHPages/static/media/jump.c691f7a9.jpg",
+    "static/media/learn-child.3cdfdfd4.jpg": "/FitnessClubGHPages/static/media/learn-child.3cdfdfd4.jpg",
+    "static/media/learnChildren2.8e616631.jpg": "/FitnessClubGHPages/static/media/learnChildren2.8e616631.jpg",
+    "static/media/runonme.45b48aa0.jpg": "/FitnessClubGHPages/static/media/runonme.45b48aa0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.880680a0.js",
+    "static/css/2.853ba1bc.chunk.css",
+    "static/js/2.25b21a99.chunk.js",
+    "static/js/main.409f551f.chunk.js"
+  ]
+}
